@@ -1,0 +1,11 @@
+id,nome,categoria,quantidade,pontoDePedido,validade,precoUnitario,fornecedor
+P001,Cimento CP-II,Material Básico,120,30,2025-12-01,38.50,Cimento Brasil
+P002,Tinta Acrílica Branca,Linha Premium,85,20,2026-03-10,115.00,TintasCor
+P003,Argamassa AC-II,Material Básico,200,50,2026-05-15,22.90,Construmix
+P004,Areia Lavada 20kg,Material Básico,300,80,2027-02-01,12.00,Areia & Pedra Ltda
+P005,Telha Cerâmica 40x40,Acabamento,150,40,2028-01-01,7.80,TelhaSul
+P006,Parafuso 5x40mm,Fixadores,800,200,2030-12-31,0.35,Fixatec
+P007,Lâmpada LED 9W,Elétrica,250,60,2027-07-15,9.90,EletroMais
+P008,Canaleta PVC 20mm,Elétrica,180,50,2029-10-10,5.40,PlastiConduz
+P009,Porta de Madeira Lisa,Madeiramento,25,10,2030-01-01,220.00,Madeiras ABC
+P010,Tinta Esmalte Sintético Preto,Acabamento,70,15,2026-08-20,59.90,TintasCor
